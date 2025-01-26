@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11262829674",
+    "project_id": "bullify-1",
+    "storage_bucket": "bullify-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11262829674:android:8114c7cc78a407bc0b5613",
+        "android_client_info": {
+          "package_name": "com.gems.bullify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjQtYFt90r5xjeRCaYziR_9lDG_Kch3Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
